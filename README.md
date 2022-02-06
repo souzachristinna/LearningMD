@@ -21,26 +21,30 @@ In consequatur voluptas ut eius quasi qui nisi quasi 33 pariatur aliquam. Qui vo
 ## Como usar este documento
 
 - Sobre o documento
-  - Contém o Diagrama de Arquitetura de Referência e/ou outras visões para a necessidade declarada;
-  - Contém os Requisitos de Negócio conforme a necessidade de negócio e as premissas que orientam a arquitetura de referência;
-  - Contém Requisitos não- funcionais que permitem a integração da solução de negócio ao ambiente tecnológico.
+  - [x] Contém o Diagrama de Arquitetura de Referência e/ou outras visões para a necessidade declarada;
+  - [x] Contém os Requisitos de Negócio conforme a necessidade de negócio e as premissas que orientam a arquitetura de referência;
+  - [x] Contém Requisitos não- funcionais que permitem a integração da solução de negócio ao ambiente tecnológico.
 
 - Sobre o diagrama: 
-  - servirá de guia para o time de construção visualizar a arquitetura da solução e verificar as intervenções de infraestrutura e as interveniências de aplicações necessárias para a integração ao ambiente tecnológico;
-  - a partir dele você pode declarar a arquitetura da sua solução de negócio;
+  - [x] servirá de guia para o time de construção visualizar a arquitetura da solução e verificar as intervenções de infraestrutura e as interveniências de aplicações necessárias para a integração ao ambiente tecnológico;
+  - [x] a partir dele você pode declarar a arquitetura da sua solução de negócio;
     - lembre-se de especificar os usuários da solução bem como os sistemas corporativos intervenientes (siglas e banco de dados).  
 - Sobre os Requisitos de Negócios
-  - Leia com atenção e verifique se atendem os requisitos do seu negócio. Lembrando que outros requisitos podem não estar contemplados e nesse caso acione o time de arquitetura de TI para verificar a aderência da arquitetura de referência ao requisito de negócio não declarado.
+  - [x] Leia com atenção e verifique se atendem os requisitos do seu negócio. 
+    - Lembrando que pode haver requisitos não contemplados e nesse caso acione o time de arquitetura de TI para verificar a aderência da arquitetura de referência ao requisito de negócio não declarado.
 - Sobre os Requisitos Não Funcionais
-  - Estão declarados de forma a atender a integração da solução de negócio ao ambiente tecnológico;
-  - São de responsabilidade dos times de construção conforme o domínio;
-  - Podem ser transferidos na forma de texto para os documentos de Edital de Licitação (Termo de Referência) e Contrato.
+  - [x] Estão declarados de forma a atender a integração da solução de negócio ao ambiente tecnológico;
+  - [x] São de responsabilidade dos times de construção conforme o domínio;
+  - [x] Podem ser transferidos na forma de texto para os documentos de Edital de Licitação (Termo de Referência) e Contrato.
 - Sobre os itens XPTO
-  - Recomendamos ler com atenção.
+  - [x] Recomendamos ler com atenção.
 - Sobre os itens 7 em diante
-  - São de leitura opcional porém recomendamos observar pois traz a visão dos requisitos não-funcionais de segurança para uma solução SaaS dentre outros.
+  - [x] São de leitura opcional porém recomendamos observar pois traz a visão dos requisitos não-funcionais de segurança para uma solução SaaS dentre outros.
 - Em caso de dúvidas acione o time de arquitetura confome abaixo:
-  - fazer referência ao time de arquitetura (acionamento)
+  - [x] fazer referência ao time de arquitetura (acionamento)
+
+## Como contribuir 
+
 ---
 ## Separadores
 
