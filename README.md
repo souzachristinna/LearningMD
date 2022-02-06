@@ -55,6 +55,32 @@ In consequatur voluptas ut eius quasi qui nisi quasi 33 pariatur aliquam. Qui vo
      </details>
 </div>
 
+
+<details>
+  <summary>Atenção</summary>
+    
+  ```
+  - Sobre o documento:
+    - Contém o Diagrama de Arquitetura de Referência e/ou outras visões para a necessidade declarada;
+    - Contém os Requisitos de Negócio conforme a necessidade de negócio e as premissas que orientam a arquitetura de referência;
+    - Contém Requisitos não- funcionais que permitem a integração da solução de negócio ao ambiente tecnológico. 
+  ```
+    
+  ```
+  - Sobre o diagrama:
+    - servirá de guia para o time de construção visualizar a arquitetura da solução e verificar as intervenções de infraestrutura
+      e as interveniências de aplicações necessárias para a integração ao ambiente tecnológico;
+    - a partir dele você pode declarar a arquitetura da sua solução de negócio;
+        - lembre-se de especificar os usuários da solução bem como os sistemas corporativos intervenientes (siglas e banco de dados).
+  ```
+</details>
+
+
+
+
+
+
+
 ## Como contribuir 
 
 ---
